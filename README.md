@@ -14,6 +14,7 @@ Step 3:
 Set your streams so you can sync your clone with the original repo (get the latest updates) by using the command
 * git remote add upstream https://github.com/your_username/Codeforces-Solution.git
 * git pull upstream master<br>
+
 The above 2 commands will synchronize your forked version of the project with the actual repository. 
 
 Note : Use this step only for the first time forked.
@@ -25,6 +26,7 @@ Create a branch of your own from the main and to do that use the command
 Note: Always create a new branch from the main branch
 To switch branch to main use the command
 * git switch main<br>
+
 or to switch any other branch use
 * git switch your_branch_name
 
