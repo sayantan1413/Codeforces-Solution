@@ -8,7 +8,7 @@ Step 1:
 
 Step 2:
 Clone this repository in your local machine and to do it use the command
-* git clone "https://github.com/your_username/Codeforces-Solution.git"
+* git clone https://github.com/your_username/Codeforces-Solution.git
 
 Step 3:
 Set your streams so you can sync your clone with the original repo (get the latest updates) by using the command
