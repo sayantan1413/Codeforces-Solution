@@ -24,8 +24,8 @@ Create a branch of your own from the main and to do that use the command
 
 Note: Always create a new branch from the main branch
 To switch branch to main use the command
-* git switch main
-<br>or to switch any other branch use
+* git switch main<br>
+or to switch any other branch use
 * git switch your_branch_name
 
 Then do your task
