@@ -1,5 +1,5 @@
 # Codeforces-Solution
-The motto of this repository is to list down all the codeforces in a single repository. 
+The moto of this repository is to list down all the codeforces in a single repository. 
 
 Steps to make a pull request:
 
