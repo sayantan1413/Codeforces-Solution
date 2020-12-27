@@ -50,4 +50,4 @@ To commit the file with message use the command
 
 step 8:
 To make a pull request use the command
-* git push
+* git push --set-upstream origin your_branch_name
