@@ -13,7 +13,7 @@ Clone this repository in your local machine and to do it use the command
 Step 3:
 Set your streams so you can sync your clone with the original repo (get the latest updates) by using the command
 * git remote add upstream https://github.com/your_username/Codeforces-Solution.git
-* git pull upstream master<br>
+* git pull upstream main<br>
 
 The above 2 commands will synchronize your forked version of the project with the actual repository. 
 
@@ -34,17 +34,17 @@ Then do your task
 
 Step 5:
 To check that there exist the latest code use the command
-* git pull upstream master
+* git pull upstream main
 
-Step 5:
+Step 6:
 Check your changes and your branch by using the command
 * git status
 
-step 6:
+step 7:
 To add the untracked file use the command
 * git add .
 
-step 7:
+step 8:
 To commit the file with message use the command
 * git commit -m "your_message"
 
