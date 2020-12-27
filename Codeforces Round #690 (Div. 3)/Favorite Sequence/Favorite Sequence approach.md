@@ -5,5 +5,5 @@ storing the array after the required operation. Now in the given array we will s
 the first element will increase by the even position and the value of that element will be stored in ans. In the odd position 
 the pointer pointing to last will get added to the ans and will decrease by one.
 
-Time Complexity : O(n)
-Space Complexity : O(n)
+Time Complexity : O(n).
+Space Complexity : O(n).
